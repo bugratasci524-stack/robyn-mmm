@@ -1,0 +1,6 @@
+robyn-env/
+robyn-calisma/
+output/
+.ipynb_checkpoints/
+__pycache__/
+*.csv
